@@ -1,8 +1,8 @@
-public class Hello
+class Hello
 {
-    public static void main(String [] args)
+    public static void main(String args[])
     {
-        System.out.println("hello, Winjitian!"):
+        System.out.println("hello,   Winjitian!");
     }
 
 }
